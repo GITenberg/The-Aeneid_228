@@ -1,0 +1,44 @@
+_repo: The-Aeneid_228
+_version: 0.0.1
+alternative_title: Aeneis. English
+contributor:
+  translator:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergilius Maro, Publius
+    - Vergil
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: http://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_bookshelf:
+- Best Books Ever Listings
+- Poetry
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '1995-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeneas (Legendary character) -- Poetry'
+- !lcsh 'Epic poetry, Latin -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Legends -- Rome -- Poetry'
+- GITenberg
+title: The Aeneid
+url: http://www.gutenberg.org/ebooks/228

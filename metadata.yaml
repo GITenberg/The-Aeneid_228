@@ -1,5 +1,5 @@
 _repo: The-Aeneid_228
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Aeneis. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '807'
     url: http://www.gutenberg.org/2009/agents/807
     wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Virgil
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/129
     wikipedia: http://en.wikipedia.org/wiki/Virgil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/228#The-Aeneid
 gutenberg_bookshelf:
 - Best Books Ever Listings
 - Poetry
